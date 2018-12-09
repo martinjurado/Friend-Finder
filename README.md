@@ -5,6 +5,8 @@ Then, it will display the name and picture of the best-matched user.
 ## Process
 ![](images/friend.gif)
 
+To use the app, click here ( https://arcane-retreat-18762.herokuapp.com/ )
+
 
 ## Technologies Used
 1. Node
