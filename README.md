@@ -1,5 +1,6 @@
 # Friend-Finder
-A Celebrity Dating App that makes user answer survey questions which matches the same personality with an existing friend database. 
+A Celebrity Dating App with full-stack features that takes in the results of the user, and matches the answer with an existing user.
+Then, it will display the name and picture of the best-matched user. 
 
 ## Process
 ![](images/friend.gif)
