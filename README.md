@@ -10,7 +10,7 @@ On submit form, user will be prompt with a modal displaying the name and picture
 ## Technologies Used
 1. Node
 2. EXPRESS framework
-3. API (GET & POST)
+3. AJAX CALL (GET & POST)
 * To iterate through html route and api route
 * To post a new user in the JSON object 
 
