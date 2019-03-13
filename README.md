@@ -1,12 +1,11 @@
 # Friend-Finder
-A Celebrity Dating App with full-stack features that takes in the results of the user, and matches the answer with an existing user.
-Then, it will display the name and picture of the best-matched user. 
+Celebrity Dating App that matches your test scores to a celebrity!
 
-## Process
+## Overview
+Dating application with full-stack features that takes in the results of the user, and matches the answer with an existing data.
+On submit form, user will be prompt with a modal displaying the name and picture of the celebrity matched.
+
 ![](images/friend.gif)
-
-To use the app, click here ( https://arcane-retreat-18762.herokuapp.com/ )
-
 
 ## Technologies Used
 1. Node
@@ -14,3 +13,8 @@ To use the app, click here ( https://arcane-retreat-18762.herokuapp.com/ )
 3. API (GET & POST)
 * To iterate through html route and api route
 * To post a new user in the JSON object 
+
+## Link
+Link to project: https://arcane-retreat-18762.herokuapp.com/
+
+
