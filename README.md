@@ -2,7 +2,7 @@
 Celebrity Dating App that matches your test scores to a celebrity!
 
 ## Overview
-Dating application with full-stack features that takes in the results of the user, and matches the answer with an existing data.
+Dating application with full-stack features that takes in the results of the user, and matches the answer with existing data containing an array of objects containing user iformation.
 On submit form, user will be prompt with a modal displaying the name and picture of the celebrity matched.
 
 ![](images/friend.gif)
